@@ -1,0 +1,1 @@
+2009-11-13 00:40:04 Warning: Warning (2): fopen(/home/masaaki/test/app/tmp/cache/persistent/cake_core_core_paths) [<a href='http://php.net/function.fopen'>function.fopen</a>]: failed to open stream: Permission denied in [CORE/cake/libs/file.php, line 156]
